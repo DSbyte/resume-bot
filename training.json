@@ -1,0 +1,26 @@
+{
+    "intents": [
+        {
+            "tags": "",
+            "patterns": [
+                "",
+                ""
+            ],
+            "responses": [
+                "",
+                ""
+            ]
+        },
+        {
+            "tags": "",
+            "patterns": [
+                "",
+                ""
+            ],
+            "responses": [
+                "",
+                ""
+            ]
+        }
+    ]
+}
